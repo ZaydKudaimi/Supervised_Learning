@@ -1,7 +1,7 @@
 # Supervised_Learning
 
 steps to run:
-1 git clone git@github.com:ZaydKudaimi/Supervised_Learning.git:
+1 git clone git@github.com:ZaydKudaimi/Supervised_Learning.git
 2 in directory pip install pandas numpy matplotlib yellowbrick scikit-learn
 3 run main.py
 
